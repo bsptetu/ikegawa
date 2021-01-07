@@ -63,3 +63,37 @@
     padding: 0.04em 0.25em;
     background: rgba(230,230,230, 1);
 }
+#_111_inputr{
+    position: absolute; /* */
+	z-index:999; /* */
+	font-size: 24px; /* ←この数字は文字の大きさを表しています */
+	width : 20em; /* ←この数字はウインドウの幅を表しています */
+	height : 2.8em; /* ←この数字はウインドウの高さを表しています */
+
+	font-weight:bold; 
+    color: #000000;
+     text-shadow: black 0.01em 0.01em 0em, black -0.01em 0.01em 0em,
+                 black 0.01em -0.01em 0em, black -0.01em -0.01em 0em;
+    font-family: GameFont;
+
+    border:solid 0.125em rgba(150,120,120, 1);
+    border-radius:0.2em;
+    background: rgba(250,250,250, 1);
+}
+#_111_submitr{
+	position: absolute; /* */
+	z-index:999; /* */
+	font-size: 50px; /* ←この数字は文字の大きさを表しています */
+	width : 6em; /* ←この数字はウインドウの幅を表しています */
+	height : 3em; /* ←この数字はウインドウの高さを表しています */
+
+	font-weight:bold; 
+    color: #000000;
+     text-shadow: black 0.01em 0.01em 0em, black -0.01em 0.01em 0em,
+                 black 0.01em -0.01em 0em, black -0.01em -0.01em 0em;
+    font-family: GameFont;
+
+    border:solid 0.125em rgba(150,120,120, 1);
+    border-radius:0.2em;
+    background: rgba(250,250,250, 1);
+}
